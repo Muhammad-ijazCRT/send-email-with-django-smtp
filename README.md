@@ -1,2 +1,1 @@
-# send-email-with-django-smtp
-send email with django smtp
+# django_email_to_gmail
