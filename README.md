@@ -1,11 +1,11 @@
 # django_email_to_gmai
 
-# Note: THis section is can solve the Error which develoepr face in email sending....
-
 ### Fix error code 10060 connection timeout in django email sending process...
 
 ## please go through this link
 if 10060 response time is make your headache then, it's mean that you have not set mail outlook on your pc. so pelase go through this link and it will help to fix this 10060 soket error.
+
+            https://www.youtube.com/watch?v=THkAdFNy164
 
 #### This can fix through : Verify web proxy connection.
 
