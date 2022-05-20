@@ -1,11 +1,11 @@
-# django_email_to_gmai
+# django_email_to_gmai :envelope:
 
-## Sending email
+## Sending email :outbox_tray:
 Although Python provides a mail sending interface via the smtplib module, Django provides a couple of light wrappers over it. These wrappers are provided to make sending email extra quick, to help test email sending during development, and to provide support for platforms that can’t use SMTP.
 
 
 
-## Quick example
+## Quick example :truck:
 
             from django.core.mail import send_mail
 
@@ -28,7 +28,9 @@ Although Python provides a mail sending interface via the smtplib module, Django
             EMAIL_HOST_PASSWORD = 'here email password'
             EMAIL_USE_TLS = True
 
-## Fix error code 10060 connection timeout in django email sending process...
+# Very Commpn Error
+
+## Fix error code 10060 connection timeout in django email sending process... :interrobang:
 
 <strong>
 if 10060 response time is make your headache then, it's mean that you have not set mail outlook on your pc. so pelase go through this link and it will help to fix this 10060 soket error.
