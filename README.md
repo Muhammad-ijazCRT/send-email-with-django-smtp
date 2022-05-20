@@ -33,8 +33,10 @@ Although Python provides a mail sending interface via the smtplib module, Django
 ## Fix error code 10060 connection timeout in django email sending process... 
 
 <strong>
-if 10060 response time is make your headache then, it's mean that you have not set mail outlook on your pc. so pelase go through this link and it will help to fix this 10060 soket error.
+<b>
+if 10060 response time is make your headache then, it's mean that you have not set mail outlook on your pc. so pelase go through this link and it will help to fix this 10060 soket error. </b>
 </strong>
+
             
             https://www.youtube.com/watch?v=THkAdFNy164
 
