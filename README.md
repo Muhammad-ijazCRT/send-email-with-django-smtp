@@ -28,9 +28,9 @@ Although Python provides a mail sending interface via the smtplib module, Django
             EMAIL_HOST_PASSWORD = 'here email password'
             EMAIL_USE_TLS = True
 
-# Very Commpn Error
+# Very Commpn Error :interrobang:
 
-## Fix error code 10060 connection timeout in django email sending process... :interrobang:
+## Fix error code 10060 connection timeout in django email sending process... 
 
 <strong>
 if 10060 response time is make your headache then, it's mean that you have not set mail outlook on your pc. so pelase go through this link and it will help to fix this 10060 soket error.
